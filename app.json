@@ -1,0 +1,12 @@
+{
+  "name": "MyExpoApp",
+  "displayName": "MyExpoApp",
+  "expo": {
+    "name": "MyExpoApp",
+    "slug": "MyExpoApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
